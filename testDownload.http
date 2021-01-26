@@ -1,0 +1,7 @@
+### Test downloading of external PDF
+POST http://localhost:8080/fetchPDF HTTP/1.1
+content-type: application/json
+
+{
+    "url": "http://www.africau.edu/images/default/sample.pdf"
+}

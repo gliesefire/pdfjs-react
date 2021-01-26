@@ -3,8 +3,9 @@
 ## Running
 
 ```
-yarn install
-yarn start
+npm install
+npm run build
+node start
 ```
 
-Browser will be opening at http://localhost:3000/
+Browser will be opening at http://localhost:8080/

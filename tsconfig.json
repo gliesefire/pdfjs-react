@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./public/",
+        "noImplicitAny": false,
+        "module": "commonjs",
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "target": "es5",
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+    },
+    "files": [
+        "./src/main.tsx"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
